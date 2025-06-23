@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Altaire Alaysa - Resume</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="grid-layout">
+      <div class="left-column">
+        <section>
+          <h2 style="font-size: 28px; text-decoration: underline;"><strong>ALTAIRE ALAYSA</strong></h2>
+          <p><strong>Email:</strong> <a href="mailto:aa043a@gmail.com">aa043a@gmail.com</a></p>
+          <p><strong>LinkedIn:</strong><a href="https://www.linkedin.com/in/altaire-alaysa-908b8924a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="width: 16px; vertical-align: middle; margin-right: 4px;">Altaire Alaysa</a>
+</p>
+          <p><strong>Mobile:</strong> +639606811437</p>
+          <p><strong>Address:</strong> 17 Benedicto Street, Don Jose Heights, Commonwealth, Quezon City</p>
+          <p><strong>Nationality:</strong> Filipino</p>
+        </section>
+
+        <section>
+          <h2>Skills & Tools</h2>
+          <h4>Technical Stack</h4>
+          <ul>
+            <li>Excel (Advanced Formulas & VBA), Google Sheets & Apps Script</li>
+            <li>Salesforce CRM: Reporting, Dashboards, API Integration</li>
+            <li>Shopify: Manual & Bulk Product Publishing, API & Reporting</li>
+            <li>Programming: JavaScript, SQL, HTML, CSS, VBA</li>
+            <li>Tools: Postman, GitHub, Airtable, SSRS, Data Studio</li>
+          </ul>
+          <h4>Data Expertise</h4>
+          <ul>
+            <li>Data Cleaning, Analysis & Visualization</li>
+            <li>Dashboard Creation</li>
+            <li>Volume & Revenue Forecasting</li>
+            <li>Workforce Planning, Scheduling</li>
+          </ul>
+        </section>
+      </div>
+
+      <div class="right-column">
+        <section>
+          <h2>Objective</h2>
+          <p>Seeking a role where I can apply my data engineering, analytics, and automation skills to contribute to company growth. Always striving for improvement, I value innovation and efficiency.</p>
+        </section>
+
+        <section>
+          <h2>Professional Experience</h2>
+          <div class="job">
+            <h3>Athlete's Thread <span>Data Engineer / Project Manager</span></h3>
+            <p class="date">Nov 2022 – Jun 2025</p>
+            <ul>
+              <li>Developed data pipelines and automated reporting across Shopify, Salesforce, and Airtable.</li>
+              <li>Led cross-functional projects improving analytics processes and delivery times.</li>
+              <li>Managed data integrations and API-based tools to streamline ecommerce analytics.</li>
+            </ul>
+          </div>
+          <div class="job">
+            <h3>Telus International <span>Supervisor – WFM</span></h3>
+            <p class="date">Nov 2018 – Oct 2022</p>
+            <ul>
+              <li>Automated reports using Excel VBA and transitioned dashboards to web platforms using SQL, HTML, SSRS, and Data Studio.</li>
+              <li>Mentored teammates on automation and efficient reporting practices.</li>
+              <li>Capacity Planning & Volume Forecasting.</li>
+            </ul>
+          </div>
+          <div class="job">
+            <h3>Optum Global Solutions <span>Report Analyst – WFM</span></h3>
+            <p class="date">2015 – 2018</p>
+          </div>
+          <div class="job">
+            <h3>Convergys <span>AT&T Uverse Technical Support Representative</span></h3>
+            <p class="date">2014 – 2015</p>
+          </div>
+          <div class="job">
+            <h3>TN Visa Expert <span>Web Designer (Home Based)</span></h3>
+            <p class="date">2013 – 2014</p>
+          </div>
+          <div class="job">
+            <h3>IBM Daksh <span>Apple iTunes Technical Support Representative</span></h3>
+            <p class="date">2012 – 2013</p>
+          </div>
+          <div class="job">
+            <h3>Daewoo Engineering and Constructions <span>IT Personnel</span></h3>
+            <p class="date">2011 – 2012</p>
+            <p>Ras Laffan Industrial City, State of Qatar</p>
+          </div>
+        </section>
+
+        <section>
+          <h2>Education</h2>
+          <p><strong>Bachelor of Science in Computer Engineering (Undergraduate)</strong><br>
+          Technological Institute of the Philippines – Cubao, Quezon City (2004 – 2007)</p>
+          <p><strong>Secondary:</strong> Cielito Zamora National High School Annex – Camarin, Caloocan City (2003 – 2004)</p>
+          <p><strong>1st to 3rd Year High School:</strong> Guardian Angel School – Deparo, Caloocan City (2000 – 2003)</p>
+        </section>
+      </div>
+    </div>
+
+    <script src="scripts.js"></script>
+  </div>
+</body>
+</html>
