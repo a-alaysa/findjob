@@ -184,6 +184,36 @@ a:hover {
   .grid-layout {
     flex-direction: column !important;
   }
+  .job {
+  margin-bottom: 12px;
+  padding-bottom: 4px;
+  }
+
+  .job:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  }
+
+  .job h3 {
+  margin: 0 0 5px;
+  }
+
+  .job .date {
+  margin-top: 2px;
+  margin-bottom: 8px;
+  color: #555;
+  font-size: 13px;
+  }
+
+  .job ul {
+  margin: 0;
+  padding-left: 20px;
+  }
+
+  .job ul li {
+  margin-bottom: 6px;
+  line-height: 1.5;
+  }
 }
 
 /* Mobile tweaks */
@@ -200,36 +230,4 @@ a:hover {
   .right-column {
     padding: 20px;
   }
-}
-
-.job {
-  margin-bottom: 30px;
-  padding-bottom: 10px;
-  border-bottom: 1px dashed #ccc;
-}
-
-.job:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
-}
-
-.job h3 {
-  margin: 0 0 5px;
-}
-
-.job .date {
-  margin-top: 2px;
-  margin-bottom: 8px;
-  color: #555;
-  font-size: 13px;
-}
-
-.job ul {
-  margin: 0;
-  padding-left: 20px;
-}
-
-.job ul li {
-  margin-bottom: 6px;
-  line-height: 1.5;
 }
